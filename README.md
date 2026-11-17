@@ -1,79 +1,96 @@
 <!-- Profile README for @Kannan-Ramasami -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:06b6d4&height=190&section=header&text=Kannan%20R&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descSize=16&descAlignY=58" alt="Kannan R — Computer Science Student and Software Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:7C2D12,100:FF5A1F&height=190&section=header&text=KANNAN%20R&fontSize=48&fontColor=FFF4ED&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20IN%20THE%20MAKING&descSize=15&descAlignY=59" width="100%" alt="Kannan R — Software Developer in the Making" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Kannan-Ramasami"><img src="https://img.shields.io/badge/GitHub-Kannan--Ramasami-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-  <a href="https://github.com/Kannan-Ramasami?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-2563eb?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
+  <img src="https://avatars.githubusercontent.com/u/237835936?v=4" width="104" height="104" alt="Kannan's GitHub avatar" />
+  <h2>Hey, I'm Kannan R 👋</h2>
+  <p><b>B.Tech CSE · SRM IST Trichy · Class of 2029</b></p>
+  <p>Building useful software, learning deeply, and exploring applied AI.</p>
+  <img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-FF5A1F?style=for-the-badge&labelColor=171717" alt="Focus: Software Engineering" />
+  <img src="https://img.shields.io/badge/EXPLORING-AI%20%2F%20ML-FF8A50?style=for-the-badge&labelColor=171717" alt="Exploring AI and ML" />
 </div>
 
-## About me
+## The point of view
 
-Hi! I'm **Kannan**, a B.Tech Computer Science and Engineering student at **SRM Institute of Science and Technology**, graduating in 2029.
+> Small, useful work over vague claims.
 
-I enjoy turning ideas into useful software, understanding how systems work, and learning by building. My primary goal is to grow as a **software engineer**, while exploring applied AI/ML and intelligent applications.
+I'm a Computer Science student focused on becoming a strong software engineer. I enjoy building full-stack applications, understanding the systems behind them, and learning through practical projects.
 
-- 🎓 B.Tech CSE — SRM IST, Trichy
-- 💻 Interested in software engineering, problem-solving and applied AI/ML
-- 🌱 Currently strengthening DSA, Java and software development fundamentals
-- 🔭 Building practical projects and learning modern developer workflows
-- 🤝 Open to meaningful collaborations, feedback and learning opportunities
+- 🎓 B.Tech Computer Science and Engineering — SRM IST, Trichy
+- 💻 Focused on software engineering, problem-solving and practical development
+- 🌱 Strengthening DSA, Java and modern development fundamentals
+- 🔭 Exploring applied AI/ML through projects
 
-## Tech I work with
+## Products and proof
+
+<table>
+  <tr>
+    <td width="36%">
+      <b>🔥 FURNISTOCK</b><br />
+      <img src="https://img.shields.io/badge/PROJECT-01-FF5A1F?style=flat-square&labelColor=171717" alt="Project 01" />
+    </td>
+    <td>
+      Furniture inventory and business operations platform.<br />
+      <sub>React · TypeScript · Supabase · Capacitor</sub><br />
+      <img src="https://img.shields.io/badge/PUBLIC%20SHOWCASE-IN%20PREPARATION-FF8A50?style=flat-square&labelColor=171717" alt="Public showcase in preparation" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🟠 GLIC</b><br />
+      <img src="https://img.shields.io/badge/PROJECT-02-FF5A1F?style=flat-square&labelColor=171717" alt="Project 02" />
+    </td>
+    <td>
+      Gold Loan Interest Calculator with customer and loan-history workflows.<br />
+      <sub>React · TypeScript · Supabase</sub><br />
+      <img src="https://img.shields.io/badge/PUBLIC%20SHOWCASE-SECURITY%20REVIEW-FF8A50?style=flat-square&labelColor=171717" alt="Security review before public showcase" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>✋ SignSpeak</b><br />
+      <img src="https://img.shields.io/badge/PROJECT-03-FF5A1F?style=flat-square&labelColor=171717" alt="Project 03" />
+    </td>
+    <td>
+      Indian Sign Language recognition and text formation prototype.<br />
+      <sub>Python · MediaPipe · OpenCV · scikit-learn</sub><br />
+      <a href="https://github.com/Kannan-Ramasami/app">View public repository →</a>
+    </td>
+  </tr>
+</table>
+
+## Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%20%2F%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C and C++" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-FF5A1F?style=for-the-badge&logo=python&logoColor=white&labelColor=171717" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-FF5A1F?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=171717" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-FF5A1F?style=for-the-badge&logo=typescript&logoColor=white&labelColor=171717" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-FF5A1F?style=for-the-badge&logo=react&logoColor=white&labelColor=171717" alt="React" />
+  <img src="https://img.shields.io/badge/Supabase-FF5A1F?style=for-the-badge&logo=supabase&logoColor=white&labelColor=171717" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-FF5A1F?style=for-the-badge&logo=git&logoColor=white&labelColor=171717" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FF5A1F?style=for-the-badge&logo=linux&logoColor=white&labelColor=171717" alt="Linux" />
 </p>
 
-## Featured project
-
-### [SignSpeak — Indian Sign Language to Text](https://github.com/Kannan-Ramasami/app)
-
-A desktop application exploring real-time Indian Sign Language recognition and text formation using webcam input and machine learning.
-
-- Hand landmark processing and gesture classification
-- Python, MediaPipe, OpenCV and scikit-learn
-- Letter-to-word and sentence formation interface
-
-[Explore the frontend and project documentation →](https://github.com/Kannan-Ramasami/app/tree/main/frontend)
-
-## GitHub at a glance
+## Momentum
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kannan-Ramasami&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kannan-Ramasami&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kannan-Ramasami&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=FF5A1F&icon_color=FF8A50&text_color=E6EDF3" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kannan-Ramasami&layout=compact&hide_border=true&bg_color=0B0F14&title_color=FF5A1F&text_color=E6EDF3" height="165" alt="Top languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Kannan-Ramasami&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=Kannan-Ramasami&theme=dark&hide_border=true&background=0B0F14&ring=FF5A1F&fire=FF8A50&currStreakLabel=FF8A50" width="72%" alt="GitHub contribution streak" />
 </div>
 
-## Recent public activity
+## Recent activity
 
 <!--START_SECTION:activity-->
-- **Starred** · [Mmmaihdnsc/RA2511003050153_APP_Project_Nov_26](https://github.com/Mmmaihdnsc/RA2511003050153_APP_Project_Nov_26) — Added a star to this repository
-- **Issue closed** · [Kannan-Ramasami/app](https://github.com/Kannan-Ramasami/app/issues/1) — 🌚
-- **Starred** · [Yigder/Prism](https://github.com/Yigder/Prism) — Added a star to this repository
-- **Starred** · [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) — Added a star to this repository
-- **Pushed code** · [Kannan-Ramasami/app](https://github.com/Kannan-Ramasami/app/commits/main) — 1 commit(s)
-- **Starred** · [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) — Added a star to this repository
-- **Created** · [Kannan-Ramasami/app](https://github.com/Kannan-Ramasami/app) — branch: main
+_Activity will appear here after the profile activity workflow runs._
 <!--END_SECTION:activity-->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kannan-Ramasami&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kannan-Ramasami&bg_color=0B0F14&color=FF8A50&line=FF5A1F&point=FFF4ED&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
   <br />
-  <sub>Recent activity refreshes hourly from GitHub's public events feed. Private activity is not displayed, and GitHub may delay publishing events.</sub>
-</div>
-
----
-
-<div align="center">
-  <i>Learning consistently. Building thoughtfully. Improving one commit at a time.</i>
+  <sub>Built with curiosity. Updated with every step forward.</sub>
 </div>
