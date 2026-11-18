@@ -87,13 +87,13 @@ I'm a Computer Science student focused on becoming a strong software engineer. I
 
 <!--START_SECTION:activity-->
 - **Pushed code** · [Mmmaihdnsc/RA2511003050153_APP_Project_Nov_26](https://github.com/Mmmaihdnsc/RA2511003050153_APP_Project_Nov_26/commits/main) — 1 commit(s)
+- **Pushed code** · [Mmmaihdnsc/RA2511003050153_APP_Project_Nov_26](https://github.com/Mmmaihdnsc/RA2511003050153_APP_Project_Nov_26/commits/main) — 1 commit(s)
 - **Starred** · [Mmmaihdnsc/RA2511003050153_APP_Project_Nov_26](https://github.com/Mmmaihdnsc/RA2511003050153_APP_Project_Nov_26) — Added a star to this repository
 - **Issue closed** · [Kannan-Ramasami/app](https://github.com/Kannan-Ramasami/app/issues/1) — 🌚
 - **Starred** · [Yigder/Prism](https://github.com/Yigder/Prism) — Added a star to this repository
 - **Starred** · [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) — Added a star to this repository
 - **Pushed code** · [Kannan-Ramasami/app](https://github.com/Kannan-Ramasami/app/commits/main) — 1 commit(s)
 - **Starred** · [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) — Added a star to this repository
-- **Created** · [Kannan-Ramasami/app](https://github.com/Kannan-Ramasami/app) — branch: main
 <!--END_SECTION:activity-->
 
 <div align="center">
