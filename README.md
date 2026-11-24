@@ -93,7 +93,6 @@ I'm a Computer Science student focused on becoming a strong software engineer. I
 - **Starred** · [Yigder/Prism](https://github.com/Yigder/Prism) — Added a star to this repository
 - **Starred** · [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) — Added a star to this repository
 - **Pushed code** · [Kannan-Ramasami/app](https://github.com/Kannan-Ramasami/app/commits/main) — 1 commit(s)
-- **Starred** · [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) — Added a star to this repository
 <!--END_SECTION:activity-->
 
 <div align="center">
