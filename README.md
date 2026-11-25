@@ -92,7 +92,6 @@ I'm a Computer Science student focused on becoming a strong software engineer. I
 - **Issue closed** · [Kannan-Ramasami/app](https://github.com/Kannan-Ramasami/app/issues/1) — 🌚
 - **Starred** · [Yigder/Prism](https://github.com/Yigder/Prism) — Added a star to this repository
 - **Starred** · [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) — Added a star to this repository
-- **Pushed code** · [Kannan-Ramasami/app](https://github.com/Kannan-Ramasami/app/commits/main) — 1 commit(s)
 <!--END_SECTION:activity-->
 
 <div align="center">
